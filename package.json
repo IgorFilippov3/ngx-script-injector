@@ -1,0 +1,16 @@
+{
+  "name": "ngx-script-injector",
+  "description": "Angular service to load scripts dynamically during runtime",
+  "keywords": ["Angular", "script-injection", "dynamic loading"],
+  "version": "1.0.0",
+  "author": "Igor Filippov",
+  "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/IgorFilippov3/ngx-script-injector"
+  },
+  "peerDependencies": {
+    "@angular/common": "^6.1.0",
+    "@angular/core": "^6.1.0"
+  }
+}
