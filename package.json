@@ -10,7 +10,7 @@
     "url" : "https://github.com/IgorFilippov3/ngx-script-injector"
   },
   "peerDependencies": {
-    "@angular/common": "^6.1.0",
-    "@angular/core": "^6.1.0"
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0"
   }
 }
